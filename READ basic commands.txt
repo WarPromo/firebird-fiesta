@@ -1,0 +1,2 @@
+python main.py -url https://da443ada0b53d87d3c.gradio.live -prompt zombie -negative_prompt text,blood
+python main.py -skip_diffusion true
